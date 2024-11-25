@@ -49,6 +49,7 @@ files="
 		.tx
 		.sass-cache
 		tests
+		tools
 	  "
 # Remove useless files and directories
 for file in $files; do
